@@ -1,0 +1,42 @@
+h1 {
+  margin: 0 auto;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+  display: block;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    font-size: 1.17em;
+    margin: 1em;
+    font-weight: bold;
+    color: black;
+}
+
+.container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -100px;
+  text-align: center;
+}
+
+
+
+.button {
+  width: 40%;
+  background-color: #0000b3;
+  color: white;
+  padding: 10%;
+  display: inline-block;
+  margin: auto 0;
+  text-align: center;
+  border-radius: 20px;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+}
